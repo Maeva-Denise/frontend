@@ -5,3 +5,4 @@ Some python packages to install
 - ttkbootstrap
 - tkcalendar
 - Flask
+- requests
