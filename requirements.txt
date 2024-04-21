@@ -1,0 +1,7 @@
+Some python packages to install
+- tkinter
+- PILLOW
+- sqlite3
+- ttkbootstrap
+- tkcalendar
+- Flask
